@@ -8,6 +8,5 @@ In isolation, the system may not know the user is interested in a given course, 
 
 link to the kaggle dataset is here [🔗](https://www.kaggle.com/datasets/khusheekapoor/coursera-courses-dataset-2021)
 
-###Tech Used 
-***
+### Tech Used 
 Python, NLP, Ski-kit, seaborn
